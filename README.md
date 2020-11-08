@@ -1,10 +1,5 @@
 ### Hi there 👋 
-<a target="_blank"
-   rel="noopener noreferrer"
-   href="https://gfycat.com/nearsociablebuck">
-  <img alt="ALT TEXT"
-       src="https://gfycat.com/nearsociablebuck">
-</a>
+
 
 <!--
 **heathersalyer/heathersalyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
